@@ -1,1 +1,21 @@
-
+{
+    "name": "MAGA",
+    "website": "https://gianttrumpcoin.com/",
+    "description": "Giant Trump Coin is a meme coin designed to give everyone the opportunity to become wealthy like Trump. It compensates those who fail to invest, ensuring everyone benefits.",
+    "explorer": "https://solscan.io/token/FwvhhAfYKS8MfBBKBn1NYf8Cdnc3QCxV7Pu49iYeNn8h",
+    "type": "SPL",
+    "symbol": "MAGA",
+    "decimals": 6,
+    "status": "active",
+    "id": "FwvhhAfYKS8MfBBKBn1NYf8Cdnc3QCxV7Pu49iYeNn8h",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/Giant_Trump"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GiantTrump_officail"
+        }
+    ]
+}
